@@ -1,3 +1,5 @@
+package Basics
+
 class Shape (var height: Int, width:Int){
     var perimiter = 2* (height + width)
 }
